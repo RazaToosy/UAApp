@@ -1,0 +1,7 @@
+C:\MyDropBox\Dropbox\dev\UnplannedAdmissions\src\UAApp\UAApp.Core\bin\Debug\UAApp.Core.dll
+C:\MyDropBox\Dropbox\dev\UnplannedAdmissions\src\UAApp\UAApp.Core\bin\Debug\UAApp.Core.pdb
+C:\MyDropBox\Dropbox\dev\UnplannedAdmissions\src\UAApp\UAApp.Core\obj\Debug\UAApp.Core.dll
+C:\MyDropBox\Dropbox\dev\UnplannedAdmissions\src\UAApp\UAApp.Core\obj\Debug\UAApp.Core.pdb
+C:\MyDropBox\Dropbox\dev\UnplannedAdmissions\src\UAApp\UAApp.Core\bin\Debug\UAApp.Core.dll.config
+C:\MyDropBox\Dropbox\dev\UnplannedAdmissions\src\UAApp\UAApp.Core\bin\Debug\LINQtoCSV.dll
+C:\MyDropBox\Dropbox\dev\UnplannedAdmissions\src\UAApp\UAApp.Core\obj\Debug\UAApp.Core.csprojResolveAssemblyReference.cache
